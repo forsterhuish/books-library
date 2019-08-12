@@ -230,9 +230,19 @@ Any PR and suggestions are welcomed.
 
 ## DevOps (Docker, Kubernetes, etc.)
 
+ - Practical Cloud Security - A Guide for Secure Design and Deployment [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Practical%20Cloud%20Security%20-%20A%20Guide%20for%20Secure%20Design%20and%20Deployment.pdf)
+ - Prometheus - Up & Running - Infrastructure and Application Performance Monitoring [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Prometheus%20-%20Up%20&%20Running%20-%20Infrastructure%20and%20Application%20Performance%20Monitoring.pdf)
+ - Securing Devops - Safe Services in the Cloud [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Securing%20Devops%20-%20Safe%20Services%20in%20the%20Cloud.pdf)
+ - Site Reliability Engineering - How Google Runs Production Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.epub)
+ - The DevOps 2.0 Toolkit - Automating the Continuous Deployment Pipeline with Containerized Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%202.0%20Toolkit%20-%20Automating%20the%20Continuous%20Deployment%20Pipeline%20with%20Containerized%20Microservices.pdf)
+ - The DevOps Adoption Playbook - A Guide to Adopting DevOps in a Multi-Speed IT Enterprise [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%20Adoption%20Playbook%20-%20A%20Guide%20to%20Adopting%20DevOps%20in%20a%20Multi-Speed%20IT%20Enterprise.pdf)
+ - The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%20Handbook:%20How%20to%20Create%20World-Class%20Agility,%20Reliability,%20&%20Security%20in%20Technology%20Organizations.epub)
+ - The Site Reliability Workbook - Practical Ways to Implement SRE [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20Site%20Reliability%20Workbook%20-%20Practical%20Ways%20to%20Implement%20SRE.pdf)
+ - Using AWS Lambda and Claudia.js [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Using%20AWS%20Lambda%20and%20Claudia.js.pdf)
  - Amazon Web Services in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Amazon%20Web%20Services%20in%20Action.pdf)
  - Cloud Native Patterns - Designing change tolerant software [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Cloud%20Native%20Patterns%20-%20Designing%20change%20tolerant%20software.pdf)
  - DevOps Automation Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/DevOps%20Automation%20Cookbook.pdf)
+ - The Phoenix Project : A Novel about IT, DevOps, and Helping Your Business Win [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20Phoenix%20Project%20:%20A%20Novel%20about%20IT,%20DevOps,%20and%20Helping%20Your%20Business%20Win.pdf)
 
 ### Docker
 
@@ -255,15 +265,6 @@ Any PR and suggestions are welcomed.
  - Kubernetes in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Kubernetes%20in%20Action.pdf)
  - Mastering Kubernetes [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Mastering%20Kubernetes.pdf)
  - Programming Kubernetes - Developing Cloud Native Applications [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Programming%20Kubernetes%20-%20Developing%20Cloud%20Native%20Applications.epub)
- - Practical Cloud Security - A Guide for Secure Design and Deployment [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Practical%20Cloud%20Security%20-%20A%20Guide%20for%20Secure%20Design%20and%20Deployment.pdf)
- - Prometheus - Up & Running - Infrastructure and Application Performance Monitoring [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Prometheus%20-%20Up%20&%20Running%20-%20Infrastructure%20and%20Application%20Performance%20Monitoring.pdf)
- - Securing Devops - Safe Services in the Cloud [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Securing%20Devops%20-%20Safe%20Services%20in%20the%20Cloud.pdf)
- - Site Reliability Engineering - How Google Runs Production Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.epub)
- - The DevOps 2.0 Toolkit - Automating the Continuous Deployment Pipeline with Containerized Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%202.0%20Toolkit%20-%20Automating%20the%20Continuous%20Deployment%20Pipeline%20with%20Containerized%20Microservices.pdf)
- - The DevOps Adoption Playbook - A Guide to Adopting DevOps in a Multi-Speed IT Enterprise [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%20Adoption%20Playbook%20-%20A%20Guide%20to%20Adopting%20DevOps%20in%20a%20Multi-Speed%20IT%20Enterprise.pdf)
- - The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%20Handbook:%20How%20to%20Create%20World-Class%20Agility,%20Reliability,%20&%20Security%20in%20Technology%20Organizations.epub)
- - The Site Reliability Workbook - Practical Ways to Implement SRE [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20Site%20Reliability%20Workbook%20-%20Practical%20Ways%20to%20Implement%20SRE.pdf)
- - Using AWS Lambda and Claudia.js [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Using%20AWS%20Lambda%20and%20Claudia.js.pdf)
 
 ## Elasticsearch
 
