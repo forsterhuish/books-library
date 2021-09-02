@@ -330,6 +330,7 @@ Any PR and suggestions are welcomed.
 ## Math (Statistics, Linear Algebra, etc.)
 
  - A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/A%20Mind%20For%20Numbers:%20How%20to%20Excel%20at%20Math%20and%20Science%20(Even%20If%20You%20Flunked%20Algebra).epub)
+ -  Discrete Mathemathics: An Open Introduction [[pdf]](https://github.com/BeameryEdge/books-library/blob/Added-discrete-mathematics-book/Math%20(Statistics%2C%20Linear%20Algebra%2C%20etc.)/Discrete%20Mathematics.pdf)
  - Linear Algebra Explained In Four Pages [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Linear%20Algebra%20Explained%20In%20Four%20Pages.pdf)
  - Linear Algebra [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Linear%20Algebra.pdf)
  - Think Bayes - Bayesian Statistics Made Simple [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Bayes%20-%20Bayesian%20Statistics%20Made%20Simple.pdf)
